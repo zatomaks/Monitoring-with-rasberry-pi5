@@ -1,0 +1,17 @@
+# Игнорирование виртуального окружения
+monitoring/bin/
+monitoring/lib/
+monitoring/include/
+monitoring/share/
+monitoring/lib64/
+
+# Игнорирование кеш-файлов Python
+__pycache__/
+*.py[cod]
+
+# Игнорирование конфигурационных файлов VS Code
+.vscode/
+
+# Игнорирование системных файлов
+*.log
+*.swp
