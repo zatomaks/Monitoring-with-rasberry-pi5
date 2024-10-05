@@ -80,10 +80,10 @@ mq135 = DigitalInputDevice(MQ135_PIN)
 # Настройки для отправки почты
 SMTP_SERVER = "smtp.mail.ru"  # SMTP-сервер (например, для Gmail)
 SMTP_PORT = 587  # Порт
-EMAIL_USER = "va_rhbz24@mail.ru"  # Ваш email
-EMAIL_PASSWORD = "LsKuET6B6QDxXSzX5Qrr"  # Ваш пароль от email
+EMAIL_USER = "...."  # Ваш email
+EMAIL_PASSWORD = "...."  # Ваш пароль от email
 
-TO_EMAIL = "mr.maks.pupkin.89@mail.ru"  # Email получателя по умолчанию (если не указать в меню)
+TO_EMAIL = "...."  # Email получателя по умолчанию (если не указать в меню)
 
 
 class DialogBase(QDialog):
